@@ -26,6 +26,4 @@ purposes is available, too.
 The most current code is available in GNOME git in the byzanz module. It can
 be obtained via the following command:
   git clone git://git.gnome.org/byzanz
-Releases are available for download at
-  http://www.freedesktop.org/~company/byzanz
 
